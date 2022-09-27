@@ -1,0 +1,16 @@
+{"item list": [
+    {
+        "quantity": 1,
+        "name": "apple",
+        "location": "fridge",
+        "type": "fruit",
+        "expiry date": "2022-08-01"
+    },
+    {
+        "quantity": 1,
+        "name": "pear",
+        "location": "fridge",
+        "type": "fruit",
+        "expiry date": "2022-08-03"
+    }
+]}
